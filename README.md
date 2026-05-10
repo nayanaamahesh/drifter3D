@@ -6,7 +6,10 @@ A real-time 3D driving game built from scratch in **C++ and OpenGL 4.5**, featur
 
 ## 🎥 Demo
 
-https://github.com/user-attachments/assets/b67b5c4b-3061-4065-bcb1-660974a6fb05
+<video src="https://github.com/user-attachments/assets/b67b5c4b-3061-4065-bcb1-660974a6fb05"
+       controls
+       width="700">
+</video>
 ---
 
 ## ✨ Features
