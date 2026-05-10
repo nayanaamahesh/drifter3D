@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/e768ae52-80bc-436c-9dc4-f1ed069637ea
+
+
+
+https://github.com/user-attachments/assets/c0b27a0f-7834-4ebe-9322-b7471de34abc
+
 # 🚗 Drifter3D
 
 A real-time 3D driving game built from scratch in **C++ and OpenGL 4.5**, featuring a procedurally generated infinite road, dynamic scenery, shadow mapping, and transparent fx.
@@ -6,7 +14,7 @@ A real-time 3D driving game built from scratch in **C++ and OpenGL 4.5**, featur
 
 ## 🎥 Demo
 
-<video src="https://github.com/user-attachments/assets/b67b5c4b-3061-4065-bcb1-660974a6fb05"
+<video src="https://github.com/user-attachments/assets/243e71f5-b5a4-4588-bbfb-6835b009ca6c"
        controls
        width="700">
 </video>
